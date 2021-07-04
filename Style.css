@@ -8,8 +8,9 @@ h1{
 .sky{
     color: skyblue;
 }
-section{
+.flexible-container{
     display: flex;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 50%;
@@ -30,3 +31,4 @@ section{
 }
 .color{
     color: blanchedalmond;
+    
